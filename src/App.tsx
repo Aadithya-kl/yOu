@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Maximize, Minimize } from 'lucide-react';
 import { CameraPermission } from './components/CameraPermission';
 import { CameraExperience } from './components/CameraExperience';
