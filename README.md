@@ -26,7 +26,11 @@ If you are developing a production application, we recommend enabling type-aware
     "react/rules-of-hooks": "error",
     "react/only-export-components": ["warn", { "allowConstantExport": true }]
   }
+
+
 }
 ```
+
+So using this u can have your face view of mirror and as well as rear view
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
